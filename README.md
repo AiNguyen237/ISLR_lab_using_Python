@@ -15,4 +15,4 @@ Linear regression is a useful tool for predicting a quantitative response and a 
 The lab solution for this chapter is here: [Linear_Regression_Lab_Solutions](https://github.com/AiNguyen237/ISLR_lab_using_Python/blob/main/Linear_Regression/Linear_Regression_Exercise.ipynb)
 
 The exercise solution for this chapter is here: [Linear_Regression_Exercises_Solutions](https://github.com/AiNguyen237/ISLR_lab_using_Python/blob/main/Linear_Regression/Linear_Regression_Lab_Session.ipynb)
-2. 
+
