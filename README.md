@@ -23,4 +23,5 @@ Summary of the chapter:
 The response for Linear Regression is assumed to be quantitative, while in many situations the response variable is qualitative. This is where classification models come into play. There are many possible classification techniques (classifiers) that can be used to predict a qualitative response. The classifiers introduced in the chapter are: linear discriminant analysis, quadratic discriminant analysis, Naive Bayes, and Logistic Regression. In addition, generalized linear models such as Poisson regression were also introduced.
 
 The lab solution for this chapter is here: [Classification Lab Solutions](https://github.com/AiNguyen237/ISLR_lab_using_Python/blob/main/Classification/Classification_Lab_Session.ipynb)
+
 *I don't delve into the Poisson and KNN sections here*
